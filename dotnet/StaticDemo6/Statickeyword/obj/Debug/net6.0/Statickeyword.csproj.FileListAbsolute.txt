@@ -1,0 +1,15 @@
+D:\Dotnet Practise\StaticDemo\Statickeyword\bin\Debug\net6.0\Statickeyword.exe
+D:\Dotnet Practise\StaticDemo\Statickeyword\bin\Debug\net6.0\Statickeyword.deps.json
+D:\Dotnet Practise\StaticDemo\Statickeyword\bin\Debug\net6.0\Statickeyword.runtimeconfig.json
+D:\Dotnet Practise\StaticDemo\Statickeyword\bin\Debug\net6.0\Statickeyword.dll
+D:\Dotnet Practise\StaticDemo\Statickeyword\bin\Debug\net6.0\Statickeyword.pdb
+D:\Dotnet Practise\StaticDemo\Statickeyword\obj\Debug\net6.0\Statickeyword.csproj.AssemblyReference.cache
+D:\Dotnet Practise\StaticDemo\Statickeyword\obj\Debug\net6.0\Statickeyword.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Practise\StaticDemo\Statickeyword\obj\Debug\net6.0\Statickeyword.AssemblyInfoInputs.cache
+D:\Dotnet Practise\StaticDemo\Statickeyword\obj\Debug\net6.0\Statickeyword.AssemblyInfo.cs
+D:\Dotnet Practise\StaticDemo\Statickeyword\obj\Debug\net6.0\Statickeyword.csproj.CoreCompileInputs.cache
+D:\Dotnet Practise\StaticDemo\Statickeyword\obj\Debug\net6.0\Statickeyword.dll
+D:\Dotnet Practise\StaticDemo\Statickeyword\obj\Debug\net6.0\refint\Statickeyword.dll
+D:\Dotnet Practise\StaticDemo\Statickeyword\obj\Debug\net6.0\Statickeyword.pdb
+D:\Dotnet Practise\StaticDemo\Statickeyword\obj\Debug\net6.0\Statickeyword.genruntimeconfig.cache
+D:\Dotnet Practise\StaticDemo\Statickeyword\obj\Debug\net6.0\ref\Statickeyword.dll
