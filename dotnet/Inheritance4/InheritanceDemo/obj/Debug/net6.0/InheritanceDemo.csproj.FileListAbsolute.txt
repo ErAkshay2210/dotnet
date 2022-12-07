@@ -1,0 +1,15 @@
+D:\Dotnet Practise\Inheritance\InheritanceDemo\bin\Debug\net6.0\InheritanceDemo.exe
+D:\Dotnet Practise\Inheritance\InheritanceDemo\bin\Debug\net6.0\InheritanceDemo.deps.json
+D:\Dotnet Practise\Inheritance\InheritanceDemo\bin\Debug\net6.0\InheritanceDemo.runtimeconfig.json
+D:\Dotnet Practise\Inheritance\InheritanceDemo\bin\Debug\net6.0\InheritanceDemo.dll
+D:\Dotnet Practise\Inheritance\InheritanceDemo\bin\Debug\net6.0\InheritanceDemo.pdb
+D:\Dotnet Practise\Inheritance\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.csproj.AssemblyReference.cache
+D:\Dotnet Practise\Inheritance\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Practise\Inheritance\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.AssemblyInfoInputs.cache
+D:\Dotnet Practise\Inheritance\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.AssemblyInfo.cs
+D:\Dotnet Practise\Inheritance\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.csproj.CoreCompileInputs.cache
+D:\Dotnet Practise\Inheritance\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.dll
+D:\Dotnet Practise\Inheritance\InheritanceDemo\obj\Debug\net6.0\refint\InheritanceDemo.dll
+D:\Dotnet Practise\Inheritance\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.pdb
+D:\Dotnet Practise\Inheritance\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.genruntimeconfig.cache
+D:\Dotnet Practise\Inheritance\InheritanceDemo\obj\Debug\net6.0\ref\InheritanceDemo.dll
