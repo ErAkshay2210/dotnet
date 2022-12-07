@@ -1,0 +1,15 @@
+D:\Dotnet Practise\Reflecteddemo\Reflected\bin\Debug\net6.0\Reflected.exe
+D:\Dotnet Practise\Reflecteddemo\Reflected\bin\Debug\net6.0\Reflected.deps.json
+D:\Dotnet Practise\Reflecteddemo\Reflected\bin\Debug\net6.0\Reflected.runtimeconfig.json
+D:\Dotnet Practise\Reflecteddemo\Reflected\bin\Debug\net6.0\Reflected.dll
+D:\Dotnet Practise\Reflecteddemo\Reflected\bin\Debug\net6.0\Reflected.pdb
+D:\Dotnet Practise\Reflecteddemo\Reflected\obj\Debug\net6.0\Reflected.csproj.AssemblyReference.cache
+D:\Dotnet Practise\Reflecteddemo\Reflected\obj\Debug\net6.0\Reflected.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Practise\Reflecteddemo\Reflected\obj\Debug\net6.0\Reflected.AssemblyInfoInputs.cache
+D:\Dotnet Practise\Reflecteddemo\Reflected\obj\Debug\net6.0\Reflected.AssemblyInfo.cs
+D:\Dotnet Practise\Reflecteddemo\Reflected\obj\Debug\net6.0\Reflected.csproj.CoreCompileInputs.cache
+D:\Dotnet Practise\Reflecteddemo\Reflected\obj\Debug\net6.0\Reflected.dll
+D:\Dotnet Practise\Reflecteddemo\Reflected\obj\Debug\net6.0\refint\Reflected.dll
+D:\Dotnet Practise\Reflecteddemo\Reflected\obj\Debug\net6.0\Reflected.pdb
+D:\Dotnet Practise\Reflecteddemo\Reflected\obj\Debug\net6.0\Reflected.genruntimeconfig.cache
+D:\Dotnet Practise\Reflecteddemo\Reflected\obj\Debug\net6.0\ref\Reflected.dll
