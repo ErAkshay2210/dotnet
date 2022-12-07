@@ -1,0 +1,15 @@
+D:\Dotnet Practise\Eventdemo\bin\Debug\net6.0\Eventdemo.exe
+D:\Dotnet Practise\Eventdemo\bin\Debug\net6.0\Eventdemo.deps.json
+D:\Dotnet Practise\Eventdemo\bin\Debug\net6.0\Eventdemo.runtimeconfig.json
+D:\Dotnet Practise\Eventdemo\bin\Debug\net6.0\Eventdemo.dll
+D:\Dotnet Practise\Eventdemo\bin\Debug\net6.0\Eventdemo.pdb
+D:\Dotnet Practise\Eventdemo\obj\Debug\net6.0\Eventdemo.csproj.AssemblyReference.cache
+D:\Dotnet Practise\Eventdemo\obj\Debug\net6.0\Eventdemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Practise\Eventdemo\obj\Debug\net6.0\Eventdemo.AssemblyInfoInputs.cache
+D:\Dotnet Practise\Eventdemo\obj\Debug\net6.0\Eventdemo.AssemblyInfo.cs
+D:\Dotnet Practise\Eventdemo\obj\Debug\net6.0\Eventdemo.csproj.CoreCompileInputs.cache
+D:\Dotnet Practise\Eventdemo\obj\Debug\net6.0\Eventdemo.dll
+D:\Dotnet Practise\Eventdemo\obj\Debug\net6.0\refint\Eventdemo.dll
+D:\Dotnet Practise\Eventdemo\obj\Debug\net6.0\Eventdemo.pdb
+D:\Dotnet Practise\Eventdemo\obj\Debug\net6.0\Eventdemo.genruntimeconfig.cache
+D:\Dotnet Practise\Eventdemo\obj\Debug\net6.0\ref\Eventdemo.dll
