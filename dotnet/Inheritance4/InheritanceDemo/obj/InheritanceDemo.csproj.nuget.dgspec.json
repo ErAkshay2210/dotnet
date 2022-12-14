@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dotnet Practise\\Inheritance\\InheritanceDemo\\InheritanceDemo.csproj": {}
+    "d:\\GIthub\\dotnetRepository\\dotnet\\dotnet\\Inheritance4\\InheritanceDemo\\InheritanceDemo.csproj": {}
   },
   "projects": {
-    "D:\\Dotnet Practise\\Inheritance\\InheritanceDemo\\InheritanceDemo.csproj": {
+    "d:\\GIthub\\dotnetRepository\\dotnet\\dotnet\\Inheritance4\\InheritanceDemo\\InheritanceDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dotnet Practise\\Inheritance\\InheritanceDemo\\InheritanceDemo.csproj",
+        "projectUniqueName": "d:\\GIthub\\dotnetRepository\\dotnet\\dotnet\\Inheritance4\\InheritanceDemo\\InheritanceDemo.csproj",
         "projectName": "InheritanceDemo",
-        "projectPath": "D:\\Dotnet Practise\\Inheritance\\InheritanceDemo\\InheritanceDemo.csproj",
+        "projectPath": "d:\\GIthub\\dotnetRepository\\dotnet\\dotnet\\Inheritance4\\InheritanceDemo\\InheritanceDemo.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\Dotnet Practise\\Inheritance\\InheritanceDemo\\obj\\",
+        "outputPath": "d:\\GIthub\\dotnetRepository\\dotnet\\dotnet\\Inheritance4\\InheritanceDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

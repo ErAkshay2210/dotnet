@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dotnet Practise\\Delegatesdemo\\Delegatesdemo.csproj": {}
+    "d:\\GIthub\\dotnetRepository\\dotnet\\dotnet\\Delegatesdemo2\\Delegatesdemo.csproj": {}
   },
   "projects": {
-    "D:\\Dotnet Practise\\Delegatesdemo\\Delegatesdemo.csproj": {
+    "d:\\GIthub\\dotnetRepository\\dotnet\\dotnet\\Delegatesdemo2\\Delegatesdemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dotnet Practise\\Delegatesdemo\\Delegatesdemo.csproj",
+        "projectUniqueName": "d:\\GIthub\\dotnetRepository\\dotnet\\dotnet\\Delegatesdemo2\\Delegatesdemo.csproj",
         "projectName": "Delegatesdemo",
-        "projectPath": "D:\\Dotnet Practise\\Delegatesdemo\\Delegatesdemo.csproj",
+        "projectPath": "d:\\GIthub\\dotnetRepository\\dotnet\\dotnet\\Delegatesdemo2\\Delegatesdemo.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\Dotnet Practise\\Delegatesdemo\\obj\\",
+        "outputPath": "d:\\GIthub\\dotnetRepository\\dotnet\\dotnet\\Delegatesdemo2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

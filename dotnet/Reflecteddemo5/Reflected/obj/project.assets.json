@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dotnet Practise\\Reflecteddemo\\Reflected\\Reflected.csproj",
+      "projectUniqueName": "d:\\GIthub\\dotnetRepository\\dotnet\\dotnet\\Reflecteddemo5\\Reflected\\Reflected.csproj",
       "projectName": "Reflected",
-      "projectPath": "D:\\Dotnet Practise\\Reflecteddemo\\Reflected\\Reflected.csproj",
+      "projectPath": "d:\\GIthub\\dotnetRepository\\dotnet\\dotnet\\Reflecteddemo5\\Reflected\\Reflected.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\Dotnet Practise\\Reflecteddemo\\Reflected\\obj\\",
+      "outputPath": "d:\\GIthub\\dotnetRepository\\dotnet\\dotnet\\Reflecteddemo5\\Reflected\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -898,11 +898,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dotnet\\MySQLConnectivity\\MySQLConnection\\MySQLConnection.csproj",
+      "projectUniqueName": "d:\\GIthub\\dotnetRepository\\dotnet\\MySQLConnection\\MySQLConnection.csproj",
       "projectName": "MySQLConnection",
-      "projectPath": "D:\\Dotnet\\MySQLConnectivity\\MySQLConnection\\MySQLConnection.csproj",
+      "projectPath": "d:\\GIthub\\dotnetRepository\\dotnet\\MySQLConnection\\MySQLConnection.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\Dotnet\\MySQLConnectivity\\MySQLConnection\\obj\\",
+      "outputPath": "d:\\GIthub\\dotnetRepository\\dotnet\\MySQLConnection\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

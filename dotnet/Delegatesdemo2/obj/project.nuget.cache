@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yBbw6WWJhAXBmi5KOThyudSxX3cJV5MxJ1YXFmDIZppWRAzERQ/irRjUiaRxd20CHdgUeEhHjBnWs9pjPwud9Q==",
+  "dgSpecHash": "NcaMX6YoP/Wpf3zR4xA2XLD31wp4bxqd2SI4rekDScrql+kesDjbnspiFQk5sTIIJVfNXQ8nULzQuHiZ+Q3teQ==",
   "success": true,
-  "projectFilePath": "D:\\Dotnet Practise\\Delegatesdemo\\Delegatesdemo.csproj",
+  "projectFilePath": "d:\\GIthub\\dotnetRepository\\dotnet\\dotnet\\Delegatesdemo2\\Delegatesdemo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

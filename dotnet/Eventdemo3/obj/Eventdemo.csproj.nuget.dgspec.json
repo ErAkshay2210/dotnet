@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dotnet Practise\\Eventdemo\\Eventdemo.csproj": {}
+    "d:\\GIthub\\dotnetRepository\\dotnet\\dotnet\\Eventdemo3\\Eventdemo.csproj": {}
   },
   "projects": {
-    "D:\\Dotnet Practise\\Eventdemo\\Eventdemo.csproj": {
+    "d:\\GIthub\\dotnetRepository\\dotnet\\dotnet\\Eventdemo3\\Eventdemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dotnet Practise\\Eventdemo\\Eventdemo.csproj",
+        "projectUniqueName": "d:\\GIthub\\dotnetRepository\\dotnet\\dotnet\\Eventdemo3\\Eventdemo.csproj",
         "projectName": "Eventdemo",
-        "projectPath": "D:\\Dotnet Practise\\Eventdemo\\Eventdemo.csproj",
+        "projectPath": "d:\\GIthub\\dotnetRepository\\dotnet\\dotnet\\Eventdemo3\\Eventdemo.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\Dotnet Practise\\Eventdemo\\obj\\",
+        "outputPath": "d:\\GIthub\\dotnetRepository\\dotnet\\dotnet\\Eventdemo3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

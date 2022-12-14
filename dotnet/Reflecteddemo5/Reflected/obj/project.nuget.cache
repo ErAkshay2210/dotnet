@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AekdbJWdXznkyv1QFaUpGQcklZxgZzz00A6NrwyT+j6CB+tyCuA6Nhj8yjXjQuaslh40WdQrYzJl8RydKHl7YQ==",
+  "dgSpecHash": "U4bACa3BzZ4lXpvCmhndf5IJeTC6ujui7pxDenCLUqLuGyTTd6NOFE6f3LzMwZT0PT0PjAmksvJVQDw78XRjVg==",
   "success": true,
-  "projectFilePath": "D:\\Dotnet Practise\\Reflecteddemo\\Reflected\\Reflected.csproj",
+  "projectFilePath": "d:\\GIthub\\dotnetRepository\\dotnet\\dotnet\\Reflecteddemo5\\Reflected\\Reflected.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

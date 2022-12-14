@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dotnet Practise\\StaticDemo\\Statickeyword\\Statickeyword.csproj",
+      "projectUniqueName": "d:\\GIthub\\dotnetRepository\\dotnet\\dotnet\\StaticDemo6\\Statickeyword\\Statickeyword.csproj",
       "projectName": "Statickeyword",
-      "projectPath": "D:\\Dotnet Practise\\StaticDemo\\Statickeyword\\Statickeyword.csproj",
+      "projectPath": "d:\\GIthub\\dotnetRepository\\dotnet\\dotnet\\StaticDemo6\\Statickeyword\\Statickeyword.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\Dotnet Practise\\StaticDemo\\Statickeyword\\obj\\",
+      "outputPath": "d:\\GIthub\\dotnetRepository\\dotnet\\dotnet\\StaticDemo6\\Statickeyword\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
